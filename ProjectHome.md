@@ -1,0 +1,1 @@
+Gadget to display latest posts from m2day.org.
